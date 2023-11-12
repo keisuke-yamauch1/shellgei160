@@ -1,0 +1,5 @@
+services:
+  ubuntu:
+    image: ubuntu:latest
+    container_name: ubuntu_shell160
+    tty: true

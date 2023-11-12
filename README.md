@@ -8,6 +8,13 @@ $ git clone https://github.com/shellgei/shellgei160.git
 
 をお願いします。（できる人はforkでお願いします。）
 
+## 環境構築
+
+```shell
+docker compose up -d
+docker compose exec ubuntu bash
+```
+
 ## このリポジトリの役割
 
 * 問題で利用するデータの提供
